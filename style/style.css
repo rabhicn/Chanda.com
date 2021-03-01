@@ -1,0 +1,58 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+header {
+	
+	background-color:gray;
+	height:150px;
+	text-align:center;
+	line-height:150px;
+}
+
+.base {
+	
+	background-color:green;
+	height:1000px;
+	
+}
+
+nav {
+	background-color:blue;
+	height:50px;
+	text-align:center;
+	
+}
+
+.main-body {
+	background-color:yellow;
+	height:780px;
+	width:70%;
+	float:left;
+	margin:10px;
+	margin-right:0px;
+	text-align:center;
+}
+
+aside {
+	float:right;
+	background-color:pink;
+	width:25%;
+	height:780px;
+	margin:10px;
+	margin-left:0px;
+	text-align:center;
+
+	
+}
+
+footer {
+	background-color:red;
+	float:bottom;
+	height:100px;
+	text-align:center;
+	
+	
+}
